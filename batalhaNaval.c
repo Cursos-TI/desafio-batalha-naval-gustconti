@@ -136,4 +136,7 @@ int main()
     printf("\nHABILIDADE CRUZ\n");
     printf("\n----------------\n");
     exibirTabuleiro(tabuleiroOctaedro);
+
+    
 }
+
